@@ -6,6 +6,7 @@
 |---|---|
 | [notebooks/01-coin-bubble.ipynb](notebooks/01-coin-bubble.ipynb) | حباب سکه امامی: ارزش ذاتی، اندازه حباب، و آزمون برگشت |
 | [notebooks/02-gold-returns.ipynb](notebooks/02-gold-returns.ipynb) | آمار بازده طلا: Fat Tail و خوشه‌ای شدن نوسان |
+| [notebooks/03-gold-dollar-rates.ipynb](notebooks/03-gold-dollar-rates.ipynb) | طلا، دلار و نرخ بهره واقعی: رابطه واقعی یا همبستگی کاذب؟ |
 
 ## اجرا
 
