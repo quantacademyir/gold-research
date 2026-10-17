@@ -5,6 +5,7 @@
 | نوت‌بوک | موضوع |
 |---|---|
 | [notebooks/01-coin-bubble.ipynb](notebooks/01-coin-bubble.ipynb) | حباب سکه امامی: ارزش ذاتی، اندازه حباب، و آزمون برگشت |
+| [notebooks/02-gold-returns.ipynb](notebooks/02-gold-returns.ipynb) | آمار بازده طلا: دم‌های پهن و خوشه‌ای شدن نوسان |
 
 ## اجرا
 
