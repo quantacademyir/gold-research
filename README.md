@@ -7,6 +7,7 @@
 | [notebooks/01-coin-bubble.ipynb](notebooks/01-coin-bubble.ipynb) | حباب سکه امامی: ارزش ذاتی، اندازه حباب، و آزمون برگشت |
 | [notebooks/02-gold-returns.ipynb](notebooks/02-gold-returns.ipynb) | آمار بازده طلا: Fat Tail و خوشه‌ای شدن نوسان |
 | [notebooks/03-gold-dollar-rates.ipynb](notebooks/03-gold-dollar-rates.ipynb) | طلا، دلار و نرخ بهره واقعی: رابطه واقعی یا همبستگی کاذب؟ |
+| [notebooks/04-gold-token-xaut.ipynb](notebooks/04-gold-token-xaut.ipynb) | توکن طلا (XAUT) در Bybit: تعقیب قیمت، آخر هفته، پایه و فاندینگ |
 
 ## اجرا
 
