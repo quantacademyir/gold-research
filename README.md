@@ -8,6 +8,7 @@
 | [notebooks/02-gold-returns.ipynb](notebooks/02-gold-returns.ipynb) | آمار بازده طلا: Fat Tail و خوشه‌ای شدن نوسان |
 | [notebooks/03-gold-dollar-rates.ipynb](notebooks/03-gold-dollar-rates.ipynb) | طلا، دلار و نرخ بهره واقعی: رابطه واقعی یا همبستگی کاذب؟ |
 | [notebooks/04-gold-token-xaut.ipynb](notebooks/04-gold-token-xaut.ipynb) | توکن طلا (XAUT) در Bybit: تعقیب قیمت، آخر هفته، پایه و فاندینگ |
+| [notebooks/05-trend-backtest.ipynb](notebooks/05-trend-backtest.ipynb) | بک‌تست صادقانه یک استراتژی روند روی طلا |
 
 ## اجرا
 
